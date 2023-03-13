@@ -22,7 +22,7 @@ else
 end
 
 
-hash_mt = {};
+local hash_mt = {};
 hash_mt.__index = hash_mt;
 
 local function gcap(str, pos)

@@ -4,6 +4,11 @@ Hashids.lua
 
 A Lua implementation of [hashids](http://www.hashids.org/).
 
+
+## ChangeLog
+### v1.0.7
+fix global warning in openresty
+
 ## What is it?
 
 hashids (Hash ID's) creates short, unique, reversible hashes from unsigned integers.
